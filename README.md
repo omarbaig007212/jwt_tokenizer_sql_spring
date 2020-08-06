@@ -20,4 +20,4 @@ INSTRUCTIONS:
 
 5.go to url: http://localhost:8080/hello in method: GET on the "ADVANCED REST client" and create a new header and name it as Authorization in the value type: Bearer <paste copied token>
 
-6.thank y
+6.thank you
